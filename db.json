@@ -31,19 +31,19 @@
     "dept_id": "1"
   },
     {
-    "id": "2"
+    "id": "2",
     "fname": "Ola",
     "lname": "Nordmann",
     "dept_id": "1"
   },
     {
-    "id": "3"
+    "id": "3",
     "fname": "Kari",
     "lname": "Nordmann",
     "dept_id": "2"
   },
     {
-    "id": "4"
+    "id": "4",
     "fname": "Inger",
     "lname": "Hagerup",
     "dept_id": "2"
