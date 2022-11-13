@@ -3,12 +3,12 @@
     {
       "id": 1,
       "dept_name": "Sykestuen",
-      "Patients": "1, 2, 3, 4"
+      "Patients": "1, 2"
     },
     {
       "id": 2,
       "dept_name": "Akutten",
-      "Patients": "1, 2, 3, 4"
+      "Patients": "3, 4"
     }
   ],
   "symptoms": [
@@ -23,11 +23,32 @@
       "postId": 1
     }
   ],
-  "patient": {
+  "patient":[
+    {
+    "id": "1",
     "fname": "Profile 1",
     "lname": "Olofsen",
     "dept_id": "1"
   },
+    {
+    "id": "2"
+    "fname": "Ola",
+    "lname": "Nordmann",
+    "dept_id": "1"
+  },
+    {
+    "id": "3"
+    "fname": "Kari",
+    "lname": "Nordmann",
+    "dept_id": "2"
+  },
+    {
+    "id": "4"
+    "fname": "Inger",
+    "lname": "Hagerup",
+    "dept_id": "2"
+  },
+  ],
   "patientSymptoms":[
     {
     "id": "1",
